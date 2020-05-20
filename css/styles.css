@@ -93,7 +93,7 @@ color: #8f8f8f;
 /* Testimonials Section */
 
 #testimonials {
-padding: 7% 15%;
+
 text-align: center;
 background-color: #ef8172;
 color: #fff;
@@ -103,6 +103,9 @@ color: #fff;
   width: 10%;
   border-radius: 100%;
   margin: 20px;
+}
+.carousel-item {
+padding: 7% 15%;
 }
 
 /* Press Section */
